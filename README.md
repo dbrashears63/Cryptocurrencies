@@ -13,21 +13,27 @@ crypto_data.csv
 To achieve the requested report intended for the client several tasks must be completed. One of the first tasks of any data analysis is to review and clean the data. The data has been cleaned and will need to be processed. The Python PCA method was used to preprocess and reduce the data dimensions. Next the K-mean was used to cluster the data. Finally, a three-dimensional graph was created to help the client visualize what would be their best plan of action. Below are a select series of images that will display snippets of the process.
 
 Fig #1 Original Crypto Currency DataFrame.
+
 ![1 orginal_crypto_df](https://user-images.githubusercontent.com/113568268/221070489-c18cb0ac-d414-45fa-b16b-c941a276ab16.png)
 
 Fig #2 Results of the Clean Data Output.
+
 ![2 cleaned_crypto_df](https://user-images.githubusercontent.com/113568268/221070520-e74bfd5f-70e8-44c9-8722-722aa14af403.png)
 
 Fig #3 Results of using the PCA Method to reduce the dimensions to three principal components.
+
 ![4 pca_df](https://user-images.githubusercontent.com/113568268/221070568-619ed79d-cf26-4276-9c5f-80e252b213b4.png)
 
 Fig #4 Results of using the K-means to cluster the data and create an Elbow Curve. 
+
 ![3 elbow_curve](https://user-images.githubusercontent.com/113568268/221070585-0d078393-4a51-44c4-89e0-d87ab1dc0c01.png)
 
 Fig #5 Results of creating the 3D graph.  
+
 ![5 3D_module](https://user-images.githubusercontent.com/113568268/221070666-a38ce6e6-ff41-46cb-a38e-f0dcd9e0f51e.png)
 
 Fig #6 Results of creating a scatter plot. 
+
 ![8 scatter_plot](https://user-images.githubusercontent.com/113568268/221070712-89b3ca4e-6c80-4e69-95a3-e325b72ca36c.png)
 
 
